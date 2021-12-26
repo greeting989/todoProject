@@ -1,6 +1,6 @@
 {
   "name": "myapp",
-  "homepage": "https://github.com/greeting989/todoProject.git",
+  "homepage": "http://greeting989.github.io/todoProject",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
