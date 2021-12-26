@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/greeting989/todoProject.git/static/css/main.c0200058.css",
+    "main.js": "/greeting989/todoProject.git/static/js/main.8e81926a.js",
+    "static/js/787.855d930d.chunk.js": "/greeting989/todoProject.git/static/js/787.855d930d.chunk.js",
+    "static/media/img2.jpg": "/greeting989/todoProject.git/static/media/img2.368e2b4e68e79087f39d.jpg",
+    "index.html": "/greeting989/todoProject.git/index.html",
+    "main.c0200058.css.map": "/greeting989/todoProject.git/static/css/main.c0200058.css.map",
+    "main.8e81926a.js.map": "/greeting989/todoProject.git/static/js/main.8e81926a.js.map",
+    "787.855d930d.chunk.js.map": "/greeting989/todoProject.git/static/js/787.855d930d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0200058.css",
+    "static/js/main.8e81926a.js"
+  ]
+}
